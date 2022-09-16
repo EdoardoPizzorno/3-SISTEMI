@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1653377359 source:c:\users\edopi\onedrive\desktop\pizzorno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"team.h"
+	"piloti.h"
+
+1653372837 c:\users\edopi\onedrive\desktop\pizzorno\utility.h
+
+1653375576 c:\users\edopi\onedrive\desktop\pizzorno\team.h
+
+1653377359 c:\users\edopi\onedrive\desktop\pizzorno\piloti.h
+
+1653377359 source:c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\pizzornoverifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"team.h"
+	"piloti.h"
+
+1653372837 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\pizzornoverifica\utility.h
+
+1653385256 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\pizzornoverifica\team.h
+
+1653385444 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\pizzornoverifica\piloti.h
+

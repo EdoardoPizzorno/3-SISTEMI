@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645474433 source:c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\stringhe01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1645478033 source:c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\stringhe01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

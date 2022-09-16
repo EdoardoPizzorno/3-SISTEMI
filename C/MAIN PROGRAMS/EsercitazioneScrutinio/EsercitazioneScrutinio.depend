@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1647937362 source:c:\users\e.pizzorno.2293\desktop\esercitazionescrutinio\main.c
+	"scrutinio.h"
+
+1647937641 c:\users\e.pizzorno.2293\desktop\esercitazionescrutinio\scrutinio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1648209946 source:d:\esercitazionescrutinio\main.c
+	"scrutinio.h"
+
+1648210102 d:\esercitazionescrutinio\scrutinio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1650912765 source:c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\esercitazionescrutinio\main.c
+	"scrutinio.h"
+
+1650917340 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\esercitazionescrutinio\scrutinio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

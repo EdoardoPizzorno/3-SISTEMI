@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1653317940 source:c:\users\andrea\desktop\esercitazioneverifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"piloti.h"
+	"team.h"
+
+1653316242 c:\users\andrea\desktop\esercitazioneverifica\utility.h
+
+1653318024 c:\users\andrea\desktop\esercitazioneverifica\piloti.h
+	<string.h>
+	"team.h"
+
+1653317940 c:\users\andrea\desktop\esercitazioneverifica\team.h
+
+1653317940 source:c:\users\edopi\downloads\esercitazioneverifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utility.h"
+	"piloti.h"
+	"team.h"
+
+1653316242 c:\users\edopi\downloads\esercitazioneverifica\utility.h
+
+1653330900 c:\users\edopi\downloads\esercitazioneverifica\piloti.h
+	<string.h>
+	"team.h"
+
+1653317940 c:\users\edopi\downloads\esercitazioneverifica\team.h
+

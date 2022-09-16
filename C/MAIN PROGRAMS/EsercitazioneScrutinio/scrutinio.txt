@@ -1,0 +1,2 @@
+INFO	TPSIT	SIS	ITA	MAT	Alunno/a	Medie	ESITO
+2.01	6.51	3.55	8.47	6.68	lorenzo		5.44	R

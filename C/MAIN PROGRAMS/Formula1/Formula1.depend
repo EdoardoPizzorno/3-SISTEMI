@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1653326643 source:c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\formula1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utility.h"
+	"scuderie.h"
+	"piloti.h"
+	"granpremi.h"
+
+1653320587 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\formula1\utility.h
+
+1653320587 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\formula1\scuderie.h
+
+1653326707 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\formula1\piloti.h
+
+1653320587 c:\users\edopi\onedrive\desktop\scuola\terza\sistemi\c\main programs\formula1\granpremi.h
+	"string.h"
+
